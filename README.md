@@ -18,6 +18,10 @@
 
 ![cybersecurity](cybersecurity.png 'cybersecurity')
 
+# Certificação em Linguagem C++
+
+![proC++](proC++.png 'proC++')
+
 # Introdução a Java Fatec 2019
 
 ![javaFatec](javaFatec.png 'javaFatec')
@@ -37,7 +41,15 @@
 # Editor de Imagens GIMP
 
 ![gimp](gimp.png 'gimp')
-![flex](flex.png 'flex')
-![flex](flex.png 'flex')
-![flex](flex.png 'flex')
-![flex](flex.png 'flex')
+
+# Certificação Excel Ferramentas Básicas BTM
+
+![btmExcel](btmExcel.png 'btmExcel')
+
+# Certificação de Lógica de Programação
+
+![logica](logica.png 'logica')
+
+# Certificação Matemática Financeira
+
+![matematica](matematica.png 'matematica')
