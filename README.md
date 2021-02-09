@@ -2,9 +2,14 @@
 
 ## Meus Certificados
 
-# Rocketseat Bootcamp GoStack 2020
+<h2 align="center">
+  Rocketseat Bootcamp GoStack 2020
+</h2>
+<p align="center"> 
+    
+<img alt="GoStack" src="img/gostack.png">
 
-![gostack](/gostack.png 'gostack')
+</p>
 
 # Rocketseat DOWHILE
 
