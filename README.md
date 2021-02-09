@@ -18,8 +18,12 @@
 
 ![cybersecurity](cybersecurity.png 'cybersecurity')
 
-![flex](flex.png 'flex')
+# Introdução a Java Fatec 2019
 
-![flex](flex.png 'flex')
+![javaFatec](javaFatec.png 'javaFatec')
+
+# Tecnicas de Memorizações
+
+![memorizacao](memorizacao.png 'memorizacao')
 
 ![flex](flex.png 'flex')
