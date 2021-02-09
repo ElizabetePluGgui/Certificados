@@ -26,4 +26,18 @@
 
 ![memorizacao](memorizacao.png 'memorizacao')
 
+# VBA de Excel: Formação Básica
+
+![vbaExcel](vbaExcel.png 'vbaExcel')
+
+# Certificação Empreenda Rápido
+
+![sebraeMei](sebraeMei.png 'sebraeMei')
+
+# Editor de Imagens GIMP
+
+![gimp](gimp.png 'gimp')
+![flex](flex.png 'flex')
+![flex](flex.png 'flex')
+![flex](flex.png 'flex')
 ![flex](flex.png 'flex')
