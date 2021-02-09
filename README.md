@@ -1,14 +1,16 @@
-# Hello World 🚀🚀🚀
-
-## Meus Certificados
+<h1 align="center">
+ Hello World 🚀🚀🚀
+</h1>
 
 <h2 align="center">
-  Rocketseat Bootcamp GoStack 2020
+ Meus Certificados
 </h2>
-<p align="center"> 
-    
-<img alt="GoStack" src="img/gostack.png">
 
+<h1 align="center">
+  Rocketseat Bootcamp GoStack 2020
+</h1>
+<p align="center">    
+<img alt="GoStack" src="img/gostack.png">
 </p>
 
 # Rocketseat DOWHILE
