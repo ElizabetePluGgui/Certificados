@@ -4,7 +4,7 @@
 
 # Rocketseat Bootcamp GoStack 2020
 
-![gostack](./gostack.png 'gostack')
+![gostack](/gostack.png 'gostack')
 
 # Rocketseat DOWHILE
 
